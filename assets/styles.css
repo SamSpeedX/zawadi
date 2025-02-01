@@ -81,7 +81,7 @@ header h1 {
     height: 100px;
     background-color: red;
     position: relative;
-    transform: rotate(-45deg);
+    transform: rotate(0deg);
     animation: heart-animation 1.5s infinite;
 }
 
